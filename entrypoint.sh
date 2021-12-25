@@ -12,6 +12,7 @@ OBFS_TYPE=${OBFS_TYPE:-"http"}
 echo "password: $PASSWORD"
 echo "method: $METHOD"
 echo "port: $PORT"
+echo "obfs type: $OBFS_TYPE"
 
 
 # modify config files
