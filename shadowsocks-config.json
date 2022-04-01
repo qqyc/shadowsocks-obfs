@@ -6,5 +6,5 @@
     "method":"chacha20-ietf-poly1305",
     "timeout":60,
     "plugin":"obfs-server",
-    "plugin_opts":"obfs=http;failover=cloudfront.com:80;reverse_proxy"
+    "plugin_opts":"obfs=http;failover=speedtest.net:80;reverse_proxy"
 }
